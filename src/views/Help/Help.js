@@ -36,7 +36,7 @@ function Help() {
             <GridContainer>
               <GridItem xs={12}>
                 <Typography variant="body1" gutterBottom>
-                  Hello User wheter this is your first time using Check Your Head or just plain old
+                  Hello User whether this is your first time using Check Your Head or just plain old
                   forgot something then here is where you can learn
                 </Typography>
                 <img src={calendar_page} alt="Calendar Page" className={classes.cardImage} />
