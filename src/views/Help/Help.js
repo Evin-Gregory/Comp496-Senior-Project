@@ -50,10 +50,10 @@ function Help() {
                   being anxious/fearful. You the user are also asked to tell why you feel that
                   why in 25 characters or less so summarize how you fell by using kewords.
                   <br /><br />
-                  After hitting submit the day's suggestion will pop and after clicking Will Do sends
+                  After hitting submit the day's suggestion will pop up and after clicking (Will Do) it sends
                   you back to the Calendar
                   <br /><br />
-                  From there you will see cool suprise happen on the calendar.
+
                 </Typography>
               </GridItem>
             </GridContainer>
